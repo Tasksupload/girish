@@ -1,0 +1,109 @@
+{
+  "users": [
+    {
+      "name": "Girish kumar ",
+      "email": "girishkuar123@gmail.com",
+      "phone": "9875456655",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Ravi",
+      "email": "ravi@gmail.com",
+      "phone": 859456655
+    },
+    {
+      "id": 3,
+      "name": "Siva",
+      "email": "siva@gmail.com",
+      "phone": 9594525456
+    },
+    {
+      "id": 4,
+      "name": "Rakesh",
+      "email": "rakesh@gmail.com",
+      "phone": 9856985698
+    },
+    {
+      "id": 5,
+      "name": "Sudher",
+      "email": "sudher@gmail.com",
+      "phone": 8585986569
+    },
+    {
+      "name": "Uma mahesh",
+      "email": "uma@gmail.com",
+      "phone": 7894525456,
+      "id": 6
+    },
+    {
+      "name": "srinu",
+      "email": "srinu@gmail.com",
+      "phone": "9821036253",
+      "id": 7
+    },
+    {
+      "name": "sreen",
+      "email": "sreenu@gmail.com",
+      "phone": "7531264589",
+      "id": 8
+    },
+    {
+      "name": "sreen",
+      "email": "sreenu@gmail.com",
+      "phone": "7531264589",
+      "id": 9
+    },
+    {
+      "name": "siva",
+      "email": "siva@gmail.com",
+      "phone": "8564564564",
+      "id": 10
+    },
+    {
+      "name": "rakesh",
+      "email": "rakesh@gmail.com",
+      "phone": "9631474562",
+      "id": 11
+    }
+  ],
+  "bookings": [
+    {
+      "sno": 1,
+      "Dateofbooking": "10-10-2022",
+      "Product": "Mobile"
+    },
+    {
+      "sno": 2,
+      "Dateofbooking": "09-10-2022",
+      "Product": "Laptop"
+    },
+    {
+      "sno": 3,
+      "Dateofbooking": "05-10-2022",
+      "Product": "WashingMachine"
+    },
+    {
+      "sno": 4,
+      "Dateofbooking": "02-10-2022",
+      "Product": "Home Products"
+    }
+  ],
+  "admins": [
+    {
+      "sno": 1,
+      "uname": "siva",
+      "mobile": 9856996569
+    },
+    {
+      "sno": 2,
+      "uname": "suresh",
+      "mobile": 8856996569
+    },
+    {
+      "sno": 3,
+      "uname": "srinu",
+      "mobile": 7756996569
+    }
+  ]
+}
