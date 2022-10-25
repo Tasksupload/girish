@@ -5,7 +5,6 @@ import axios from 'axios';
 const url=`http://localhost:3002/users`
 
 
-
 export default () =>
 {
     let [userData, setStateuserData] = useState([])

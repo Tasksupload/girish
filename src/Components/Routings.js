@@ -63,6 +63,7 @@ function Routings()
             <Route exact path="/hooksUser" component={Hooksuser} />
             <Route path="/hooksUser/view/:idno" component={HooksView} />
             <Route path="/hooksUser/edit/:idno" component={HooksEdit} />
+            
             <Route path="/hooksSignup" component={HooksSignup} />
             <Route path="/hooksredux" component={HooksRedux} />
             
