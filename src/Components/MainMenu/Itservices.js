@@ -38,11 +38,12 @@ function ItServices()
 <BrowserRouter>
     <div className="container-fluid bg-dark text-white">
                <h2>IT SERVICES</h2>
-               <p>IT services refers to the application of business and technical expertise to enable organizations in the creation, management and optimization of or access
-
+               <p>IT services refers to the application of business and technical expertise 
+                to enable organizations in the creation, management and optimization of or 
+                access
                 </p>
        <div>
-        <div className="coontainer my-5">
+        <div className="coontainer ">
            <div className="row">
             
               <div className="col-lg-3 ">

@@ -1,7 +1,7 @@
 {
   "users": [
     {
-      "name": "Girish kumar ",
+      "name": "Girish kumar 123 ",
       "email": "girishkuar123@gmail.com",
       "phone": "9875456655",
       "id": 1
@@ -65,6 +65,12 @@
       "email": "rakesh@gmail.com",
       "phone": "9631474562",
       "id": 11
+    },
+    {
+      "name": "ravi ",
+      "email": "ravi@gmail.com",
+      "phone": "985513369556",
+      "id": 12
     }
   ],
   "bookings": [
